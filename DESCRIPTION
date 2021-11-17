@@ -8,3 +8,4 @@ Description: Designed to add datasets which are used in the textbook
 Depends: R (>= 2.10), NSM3
 License: use_gpl2_license()
 Encoding: UTF-8
+RoxygenNote: 7.1.2
