@@ -1,0 +1,10 @@
+Package: nsm3data
+Title: Additional Datasets to Accompany Hollander, Wolfe, and
+        Chicken - Nonparametric Statistical Methods, Third Edition
+Version: 0.0.1
+Authors: Grant Schneider, Eric Chicken, Rachel Becvarik
+Maintainer: Sejin Kim <kim3@kenyon.edu>
+Description: Designed to add datasets which are used in the textbook
+Depends: R (>= 2.10), NSM3
+License: use_gpl2_license()
+Encoding: UTF-8
