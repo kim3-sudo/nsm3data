@@ -1,10 +1,16 @@
-#' Mean Interstitial Lengths
+#' Describe Dataset
 #'
-#' A dataset containing the mean interstitial lengths of 36 different pine trees from 3 different species. The variables are as follows:
+#' A function to get the quantitative description of a dataset
 #'
-#' @format A data frame with 36 rows and 2 variables:
+#' @format One argument
 #' \describe{
-#' \item{Lengths}{Length of the tree in millimeters}
-#' \item{Type}{The species of tree (Scotch, BlueSpruce, White)}
+#' \item{dataset}{An R data frame object}
 #' }
-"Pine"
+
+describe <- function(dataset) {
+  data(dataset)
+  print(paste("A data frame with ", nrow(dataset), " and ", ncol(dataset), "variables: "))
+  for (variable in names(dataset)) {
+    print(paste(variable, " of type ", typeof(variable)))
+  }
+}
