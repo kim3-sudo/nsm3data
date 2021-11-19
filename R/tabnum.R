@@ -9,5 +9,5 @@
 
 tabnum <- function() {
   library(sparklyr)
-  alias(Pine, s3.1)
+  alias(Shelterbelts, t7.7)
 }
