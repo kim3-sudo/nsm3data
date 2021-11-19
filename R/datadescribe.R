@@ -7,7 +7,7 @@
 #' \item{dataset}{An R data frame object}
 #' }
 
-describe <- function(dataset) {
+datadescribe <- function(dataset) {
   data(dataset)
   print(paste("A data frame with ", nrow(dataset), " and ", ncol(dataset), "variables: "))
   for (variable in names(dataset)) {
