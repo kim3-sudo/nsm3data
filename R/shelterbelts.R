@@ -11,7 +11,4 @@
 #' \item{m150}{Measured at 150 meters of leeward distance from shelterbelt}
 #' \item{m200}{Measured at 200 meters of leeward distance from shelterbelt}
 #' }
-
-load('./data/shelterbelts.rda')
-shelterbelts <- shelterbelts
-save(shelterbelts, file = "./data/shelterbelts.rda")
+"shelterbelts"
