@@ -21,4 +21,6 @@ build()
 install()
 ```
 
+Resolve all compilation and interpretation issues before continuing! Remember, you must have a dataset and a corresponding description file. If you have one without the other, you may not be able to successfully compile.
+
 4. Use Git to add your changes in a pull request. *Please  pull latest changes from the remote repository before pushing your changes up!*
