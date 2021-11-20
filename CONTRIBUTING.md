@@ -1,4 +1,4 @@
-# CONTRIBUTING
+# Contributing Datasets to nsm3data
 
 Thanks for contributing to `nsm3data`!
 
@@ -21,4 +21,4 @@ build()
 install()
 ```
 
-4. Use Git to add your changes in a pull request. *Please  pull latest changes before pushing your changes up!*
+4. Use Git to add your changes in a pull request. *Please  pull latest changes from the remote repository before pushing your changes up!*
