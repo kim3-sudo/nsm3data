@@ -8,7 +8,10 @@
 #' }
 
 tabnum <- function() {
+  # Please put these in order by table number
+  # This will help avoid duplicate aliases
   library(sparklyr)
+  alias(psychotherapy, t6.2)
   alias(shelterbelts, t7.7)
   alias(cysticerci, t8.3)
 }
