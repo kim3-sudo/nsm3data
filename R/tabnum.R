@@ -14,4 +14,5 @@ tabnum <- function() {
   alias(psychotherapy, t6.2)
   alias(shelterbelts, t7.7)
   alias(cysticerci, t8.3)
+  alias(pollution, t8.8)
 }
