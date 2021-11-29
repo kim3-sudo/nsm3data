@@ -10,4 +10,5 @@
 tabnum <- function() {
   library(sparklyr)
   alias(shelterbelts, t7.7)
+  alias(cysticerci, t8.3)
 }
