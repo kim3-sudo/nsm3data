@@ -12,7 +12,8 @@ If you would like to add a dataset, please use the following steps.
   - Dataset description (line 3)
   - Variable titles and descriptions (line 7 and after)
   - The name of the dataset that R should pick up (in quotes)
-3. Regenerate the documentation and rebuild the package. Use the following commands, in this order.
+3. Add the table alias to the `./R/tabnum.R` script using the format shown for other tables. This will allow someone to run the `tabnum()` function to refer to the table by its table number instead of its friendly name.
+4. Regenerate the documentation and rebuild the package. Use the following commands, in this order.
 
 ```R
 document()
@@ -23,4 +24,4 @@ install()
 
 Resolve all compilation and interpretation issues before continuing! Remember, you must have a dataset and a corresponding description file. If you have one without the other, you may not be able to successfully compile.
 
-4. Use Git to add your changes in a pull request. *Please  pull latest changes from the remote repository before pushing your changes up!*
+5. Use Git to add your changes in a pull request. *Please  pull latest changes from the remote repository before pushing your changes up!*
