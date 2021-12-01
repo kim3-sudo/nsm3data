@@ -35,7 +35,7 @@ If you wold like to update the table of contents, please use the following steps
 1. Open the `./man/toc.Rd` file to view the documentation. This should be the only read-write file in this directory, as everything else is generated using Roxygen2. Please note that although `toc.Rd` exists and seems to provide documentation for an object, there is no corresponding object for this one piece of documentation (that is, the `toc` class, function, or dataset doesn't actually exist).
 2. Under the arguments section, add a new line in the respective location for the table number and provide the table name used nsm3data, the table number as referenced in NSM3, and the title of the table as shown.
 
-```R
+```
 \item{violence}{Table 4.4 - Seconds Spent in Room after Witnessing Violence}
 ```
 

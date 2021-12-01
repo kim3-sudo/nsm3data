@@ -19,12 +19,44 @@ library(nsm3data)
 
 nsm3data contributes no additional functions, but it does have data and documentation. You need not specify the location of a dataset; simply use the `data()` function to read the data into your current environment after you have loaded the library.
 
+All datasets have accompanying descriptions that have varying degrees of helpfulness. To view this description, use the `help()` function in R to view the object's documentation. For example, use
+
+```R
+help(pokeweed)
+```
+
+to view the `pokeweed` dataset documentation.
+
 ### Table of Contents
 
 nsm3data contains its own table of contents for the datasets that it includes. This table of contents may not be up-to-date, and we would appreciate your contributions if you find a dataset that doesn't have an entry. Instructions on how to do so are in CONTRIBUTING.md.
 
-To view the table of contents, use the `help()` function in R to view the `toc` object documentation: `help(toc)`. Note that the `toc` object doesn't actually exist.
+To view the table of contents, use the `help()` function in R to view the `toc` object documentation
+
+```R
+help(toc)
+```
+
+Please note that the `toc` object doesn't actually exist, so trying to reference it will result in an error.
 
 ### Loading Data
 
-All datasets in nsm3data are provided as R datasets, so to use a dataset, simply use the `data()` function after you have loaded in the library. Consult the table of contents to find the name of a dataset.
+All datasets in nsm3data are provided as R datasets, so to use a dataset, simply use the `data()` function after you have loaded in the library. Consult the table of contents to find the name of a dataset. For example, use
+
+```R
+data(pokeweed)
+```
+
+to load the `pokeweed` dataset into your environment. The data will be loaded in as a dataframe, so you can use any method to view or manipulate that data as you would any other dataframe, including using `tidyr::` functions. If you are new to R, you need not fear overwriting the library datasets, since you are editing data that is in your own environment.
+
+Get started with:
+
+```R
+View(pokeweed)
+head(pokeweed)
+str(pokeweed)
+```
+
+## Need help?
+
+Please use the GitHub issues feature to get help. The maintainer encourages you to use the pink "question" label to get help.
