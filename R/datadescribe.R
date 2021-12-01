@@ -2,10 +2,9 @@
 #'
 #' A function to get the quantitative description of a dataset
 #'
-#' @format One argument
-#' \describe{
-#' \item{dataset}{An R data frame object}
-#' }
+#' @param dataset A dataframe to describe
+#' @return nothing
+#' @export
 "datadescribe"
 
 datadescribe <- function(dataset) {

@@ -5,13 +5,16 @@
 \alias{datadescribe}
 \title{Describe Dataset}
 \format{
-One argument
-\describe{
-\item{dataset}{An R data frame object}
-}
+An object of class \code{function} of length 1.
 }
 \usage{
 datadescribe
+}
+\arguments{
+\item{dataset}{A dataframe to describe}
+}
+\value{
+nothing
 }
 \description{
 A function to get the quantitative description of a dataset

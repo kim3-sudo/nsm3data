@@ -5,13 +5,13 @@
 \alias{tabnum}
 \title{Table numbers}
 \format{
-No arguments
-\describe{
-\item{null}{null}
-}
+An object of class \code{function} of length 1.
 }
 \usage{
 tabnum
+}
+\value{
+Nothing
 }
 \description{
 A function to alias all datasets with their corresponding table numbers. All table numbers are prefaced with a `t` (for example, instead of `4.5`, use `t4.5`). Test tables are prefaced with a `s`
