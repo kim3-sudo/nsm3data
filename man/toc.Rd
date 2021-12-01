@@ -7,6 +7,8 @@ help(toc)
 \arguments{
 \item{smokers}{Table 4.3 - Sputum Histamine Levels (micro-grams/gram Dry Weight Sputum)}
 \item{violence}{Table 4.4 - Seconds Spent in Room after Witnessing Violence}
+\item{leadpoisoning}{Table 4.7 - Plasma Glucose Levels}
+\item{pokeweed}{Table 5.2 - Average Dry Feces Weight (mg)}
 }
 \value{
 None
