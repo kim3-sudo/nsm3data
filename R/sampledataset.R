@@ -1,6 +1,6 @@
 #' sample
 #'
-#' Sample dataset description is written here.
+#' Table K.L: Sample dataset description is written here.
 #'
 #' @format M arguments across N observations
 #' \describe{

@@ -16,6 +16,6 @@ M arguments across N observations
 sample
 }
 \description{
-Sample dataset description is written here.
+Table K.L: Sample dataset description is written here.
 }
 \keyword{datasets}

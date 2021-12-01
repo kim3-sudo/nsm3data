@@ -4,8 +4,10 @@ Title: Additional Datasets to Accompany Hollander, Wolfe, and
 Version: 0.1.9052
 Author: Grant Schneider, Eric Chicken, Rachel Becvarik
 Maintainer: Sejin Kim <kim3@kenyon.edu>
-Description: Designed to add datasets which are used in the textbook
-Depends: R (>= 3.5.0), NSM3, sparklyr
-License: use_gpl2_license() + file LICENSE
+Description: Designed to add datasets which are used in the textbook.
+Depends: R (>= 3.5.0)
+Suggests: NSM3
+LazyData: true
+License: GPL-2
 Encoding: UTF-8
 RoxygenNote: 7.1.2
