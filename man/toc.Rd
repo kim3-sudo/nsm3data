@@ -10,9 +10,6 @@ help(toc)
 \item{leadpoisoning}{Table 4.7 - Plasma Glucose Levels}
 \item{pokeweed}{Table 5.2 - Average Dry Feces Weight (mg)}
 }
-\value{
-None
-}
 \description{
 A guide to the datasets in nsm3data. Datasets are listed under the Arguments section by the order they appear in the Nonparametric Statistical Methods textbook, 3ed. The reference name in the \code{nsm3data} package is given, along with the table number and the descriptor of the dataset.
 }
