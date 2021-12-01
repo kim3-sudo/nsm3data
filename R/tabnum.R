@@ -6,6 +6,7 @@
 #' \describe{
 #' \item{null}{null}
 #' }
+"tabnum"
 
 tabnum <- function() {
   # Please put these in order by table number
