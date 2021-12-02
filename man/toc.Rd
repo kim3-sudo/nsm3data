@@ -1,4 +1,6 @@
+\docType{function}
 \name{toc}
+\alias{toc}
 \alias{table_of_contents}
 \title{Table of Contents}
 \usage{
