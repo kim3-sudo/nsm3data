@@ -1,4 +1,3 @@
-\docType{function}
 \name{toc}
 \alias{toc}
 \alias{table_of_contents}
