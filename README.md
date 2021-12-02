@@ -37,7 +37,7 @@ To view the table of contents, use the `help()` function in R to view the `toc` 
 help(toc)
 ```
 
-Please note that the `toc` object doesn't actually exist, so trying to reference it will result in an error.
+Please note that the `toc` object doesn't actually exist in any meaningful way, so trying to reference it will result in just a message.
 
 ### Loading Data
 
