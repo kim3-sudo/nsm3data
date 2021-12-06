@@ -7,6 +7,16 @@
 help(toc)
 }
 \arguments{
+\item{hamiltondepression}{Table 3.1 - The Hamilton Depression Scale Factor IV Values}
+
+\item{salaries}{Table 3.2 - Annual Salaries}
+
+\item{dogs}{Table 3.3 - Blood Levels of Immunoreactive Insuline (microunits per milliliter)}
+
+\item{hydroxyproline}{Table 3.4 - Heat-Insoluble Hydroxyproline Micromoles per Gram of Dry Weight}
+
+\item{beakclapping}{Table 3.5 - Beak-Clapping Counts per Minute}
+
 \item{smokers}{Table 4.3 - Sputum Histamine Levels (micro-grams/gram Dry Weight Sputum)}
 
 \item{violence}{Table 4.4 - Seconds Spent in Room after Witnessing Violence}

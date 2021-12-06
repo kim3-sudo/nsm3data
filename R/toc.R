@@ -4,6 +4,14 @@
 #'
 #' A guide to the datasets in nsm3data. Datasets are listed under the Arguments section by the order they appear in the Nonparametric Statistical Methods textbook, 3ed. The reference name in the \code{nsm3data} package is given, along with the table number and the descriptor of the dataset.
 #'
+#' @param hamiltondepression Table 3.1 - The Hamilton Depression Scale Factor IV Values
+#' @param salaries Table 3.2 - Annual Salaries
+#' @param dogs Table 3.3 - Blood Levels of Immunoreactive Insuline (microunits per milliliter)
+#' @param hydroxyproline Table 3.4 - Heat-Insoluble Hydroxyproline Micromoles per Gram of Dry Weight
+#' @param beakclapping Table 3.5 - Beak-Clapping Counts per Minute
+#' @param hypnotic Table 3.6 - Average Scores on the Stanford Profile Scales of Hypnotic Susceptibility
+#' @param bleedingtime Table 3.7 - Bleeding Time (in seconds)
+#' @param stainless Table 3.9 - Percentage of Chromium in the Stainless Steel Samples
 #' @param smokers Table 4.3 - Sputum Histamine Levels (micro-grams/gram Dry Weight Sputum)
 #' @param violence Table 4.4 - Seconds Spent in Room after Witnessing Violence
 #' @param leadpoisoning Table 4.7 - Plasma Glucose Levels
