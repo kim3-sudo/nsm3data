@@ -41,6 +41,10 @@
 #' @param plasma.glucose Table 6.9: Plasma glucose levels in muskellungefish after a certain number of hours
 #' @param acidred Table 6.10: Number of Revertant Colonies of Salmonella Bacteria of Strain TA98 under Exposure to Various Doses of Acid Red 114, with Hamster Liver Activation
 #' @param roundingfirst Table 7.1: Rounding First-Base Times
+#' @param ozone Table 7.2: Effect of Experimental Ozone Exposures on Airway Resistance (centimeters of a liter of water/second)
+#' @param psychotic Table 7.3: Effect of Isometric Exercise on Serum Creating Phosphokinase (CPK) Activity (mU/liter) in Psychotic Patients
+#' @param syllables Table 7.4: Percentage Consonants Correctly Identified under Each of the Conditions: (A) Audition, (L) Lip Reading, (AL) Audition and Lip Reading, (C) Cued Speech, (AC) Audition and Cued Speech, (LC) Lip Reading and Cued Speech, and (ALC) Audition, Lip Reading, and Cued Speech
+#' @param stuttering Table 7.6: Influence of Rhythmicity of Metronome on Speech Fluency
 #' @usage
 #' help(toc)
 #'
