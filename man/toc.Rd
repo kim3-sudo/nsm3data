@@ -17,6 +17,12 @@ help(toc)
 
 \item{beakclapping}{Table 3.5 - Beak-Clapping Counts per Minute}
 
+\item{hypnotic}{Table 3.6 - Average Scores on the Stanford Profile Scales of Hypnotic Susceptibility}
+
+\item{bleedingtime}{Table 3.7 - Bleeding Time (in seconds)}
+
+\item{stainless}{Table 3.9 - Percentage of Chromium in the Stainless Steel Samples}
+
 \item{smokers}{Table 4.3 - Sputum Histamine Levels (micro-grams/gram Dry Weight Sputum)}
 
 \item{violence}{Table 4.4 - Seconds Spent in Room after Witnessing Violence}
