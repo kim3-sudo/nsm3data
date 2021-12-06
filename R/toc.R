@@ -1,4 +1,4 @@
-#' toc
+#' Table of Contents
 #'
 #' \code{help(toc)} displays the table of contents for datasets.
 #'
