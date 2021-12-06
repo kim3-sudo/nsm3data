@@ -1,6 +1,6 @@
 #' roundingfirst
 #'
-#' Rounding First-Base Times
+#' Table 7.1: Rounding First-Base Times
 #'
 #' @format Seven arguments across twenty-two observations
 #' \describe{

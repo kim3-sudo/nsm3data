@@ -1,6 +1,6 @@
 #' psychoactive
 #'
-#' Raw scores indicating the degree of psychotherapeutic attraction for each experimental condition
+#' Table 6.2: Raw scores indicating the degree of psychotherapeutic attraction for each experimental condition
 #'
 #' @format 4 arguments across 8 observations
 #' \describe{

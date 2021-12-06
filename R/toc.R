@@ -26,7 +26,21 @@
 #' @param leadpoisoning Table 4.7 - Plasma Glucose Levels
 #' @param serumiron Table 5.1: Serum Iron (micrograms per 100 milliliters) Determination Using Hyland Control Sera
 #' @param pokeweed Table 5.2 - Average Dry Feces Weight (mg)
+#' @param sodiumion Table 5.3: Sodium Ion Content (mequiv/liter)
 #' @param prednisone Table 5.4: Platelet Counts of Newbonr Infants (per Millimeter-cubed)
+#' @param salivation Table 5.7: Mean Drop Differences
+#' @param coronary Table 5.8: Peak Levels of Human Plasma Growth Hormone after Arginine Hydrochloride Infusion (Initial Test, nanograms per milliliter)
+#' @param mucociliary Table 6.1: Half-Time of Mucociliary Clearance (hours)
+#' @param psychotherapy Table 6.2: Raw scores indicating the degree of psychotherapeutic attraction for each experimental condition
+#' @param gizzard Table 6.3: Length of YOY Gizzard Shad from Kokosing Lake, Ohio, Sampled in Summer, 1984 (mm)
+#' @param leukocyte Table 6.4: Number of Glucocorticoid Receptor (GR) Sites per Leukocyte Cell
+#' @param pine Table 6.5: Mean Interstitial Lengths (mm)
+#' @param motivational Table 6.6: Number of Pieces Processed
+#' @param oakstands Table 6.7: Average Basal Area Increment (BAI) Vlues for Oak Stands in Southeastern Ohio
+#' @param metabolic Table 6.8: Fasting Metabolic Rate (FMR) for White-Tailed Deer (kcal/kilogram/day)
+#' @param plasma.glucose Table 6.9: Plasma glucose levels in muskellungefish after a certain number of hours
+#' @param acidred Table 6.10: Number of Revertant Colonies of Salmonella Bacteria of Strain TA98 under Exposure to Various Doses of Acid Red 114, with Hamster Liver Activation
+#' @param roundingfirst Table 7.1: Rounding First-Base Times
 #' @usage
 #' help(toc)
 #'

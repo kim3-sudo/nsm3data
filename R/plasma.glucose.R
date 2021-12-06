@@ -1,8 +1,8 @@
 #' plasma.glucose
 #'
-#' Plasma glucose levels in geese after a certain number of hours
+#' Table 6.9: Plasma glucose levels in muskellungefish after a certain number of hours
 #'
-#' @format M arguments across N observations
+#' @format 5 arguments across 8 observations
 #' \describe{
 #' \item{zero}{Original plasma glucose level}
 #' \item{one}{Plasma glucose level after 1 hour}

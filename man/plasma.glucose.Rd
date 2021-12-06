@@ -5,7 +5,7 @@
 \alias{plasma.glucose}
 \title{plasma.glucose}
 \format{
-M arguments across N observations
+5 arguments across 8 observations
 \describe{
 \item{zero}{Original plasma glucose level}
 \item{one}{Plasma glucose level after 1 hour}
@@ -18,6 +18,6 @@ M arguments across N observations
 plasma.glucose
 }
 \description{
-Plasma glucose levels in geese after a certain number of hours
+Table 6.9: Plasma glucose levels in muskellungefish after a certain number of hours
 }
 \keyword{datasets}

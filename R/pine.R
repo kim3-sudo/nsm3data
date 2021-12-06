@@ -1,6 +1,6 @@
 #' pine
 #'
-#' Interstitial lengths of different species of pine tries
+#' Table 6.5: Interstitial lengths of different species of pine tries
 #'
 #' @format 2 arguments across 36 observations
 #' \describe{

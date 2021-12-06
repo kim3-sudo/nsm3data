@@ -20,6 +20,6 @@ Seven arguments across twenty-two observations
 roundingfirst
 }
 \description{
-Rounding First-Base Times
+Table 7.1: Rounding First-Base Times
 }
 \keyword{datasets}

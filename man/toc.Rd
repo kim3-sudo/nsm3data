@@ -51,7 +51,35 @@ help(toc)
 
 \item{pokeweed}{Table 5.2 - Average Dry Feces Weight (mg)}
 
+\item{sodiumion}{Table 5.3: Sodium Ion Content (mequiv/liter)}
+
 \item{prednisone}{Table 5.4: Platelet Counts of Newbonr Infants (per Millimeter-cubed)}
+
+\item{salivation}{Table 5.7: Mean Drop Differences}
+
+\item{coronary}{Table 5.8: Peak Levels of Human Plasma Growth Hormone after Arginine Hydrochloride Infusion (Initial Test, nanograms per milliliter)}
+
+\item{mucociliary}{Table 6.1: Half-Time of Mucociliary Clearance (hours)}
+
+\item{psychotherapy}{Table 6.2: Raw scores indicating the degree of psychotherapeutic attraction for each experimental condition}
+
+\item{gizzard}{Table 6.3: Length of YOY Gizzard Shad from Kokosing Lake, Ohio, Sampled in Summer, 1984 (mm)}
+
+\item{leukocyte}{Table 6.4: Number of Glucocorticoid Receptor (GR) Sites per Leukocyte Cell}
+
+\item{pine}{Table 6.5: Mean Interstitial Lengths (mm)}
+
+\item{motivational}{Table 6.6: Number of Pieces Processed}
+
+\item{oakstands}{Table 6.7: Average Basal Area Increment (BAI) Vlues for Oak Stands in Southeastern Ohio}
+
+\item{metabolic}{Table 6.8: Fasting Metabolic Rate (FMR) for White-Tailed Deer (kcal/kilogram/day)}
+
+\item{plasma.glucose}{Table 6.9: Plasma glucose levels in muskellungefish after a certain number of hours}
+
+\item{acidred}{Table 6.10: Number of Revertant Colonies of Salmonella Bacteria of Strain TA98 under Exposure to Various Doses of Acid Red 114, with Hamster Liver Activation}
+
+\item{roundingfirst}{Table 7.1: Rounding First-Base Times}
 }
 \description{
 \code{help(toc)} displays the table of contents for datasets.

@@ -17,6 +17,6 @@
 psychoactive
 }
 \description{
-Raw scores indicating the degree of psychotherapeutic attraction for each experimental condition
+Table 6.2: Raw scores indicating the degree of psychotherapeutic attraction for each experimental condition
 }
 \keyword{datasets}

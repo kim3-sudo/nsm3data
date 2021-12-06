@@ -15,6 +15,6 @@
 pine
 }
 \description{
-Interstitial lengths of different species of pine tries
+Table 6.5: Interstitial lengths of different species of pine tries
 }
 \keyword{datasets}
