@@ -1,3 +1,4 @@
 ^nsm3data\.Rproj$
 ^\.Rproj\.user$
 ^CONTRIBUTING.md$
+^\.travis.yml$
