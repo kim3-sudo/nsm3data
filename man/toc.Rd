@@ -23,6 +23,10 @@ help(toc)
 
 \item{stainless}{Table 3.9 - Percentage of Chromium in the Stainless Steel Samples}
 
+\item{mayfly}{Table 3.10 - Mayfly Head Width, Habitat A (Micrometer Divisions)}
+
+\item{ddt}{Table 3.11 - 6-Beta-Hydroxycortisol Excretion (micrograms/24 hours)}
+
 \item{smokers}{Table 4.3 - Sputum Histamine Levels (micro-grams/gram Dry Weight Sputum)}
 
 \item{violence}{Table 4.4 - Seconds Spent in Room after Witnessing Violence}

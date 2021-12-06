@@ -12,6 +12,8 @@
 #' @param hypnotic Table 3.6 - Average Scores on the Stanford Profile Scales of Hypnotic Susceptibility
 #' @param bleedingtime Table 3.7 - Bleeding Time (in seconds)
 #' @param stainless Table 3.9 - Percentage of Chromium in the Stainless Steel Samples
+#' @param mayfly Table 3.10 - Mayfly Head Width, Habitat A (Micrometer Divisions)
+#' @param ddt Table 3.11 - 6-Beta-Hydroxycortisol Excretion (micrograms/24 hours)
 #' @param smokers Table 4.3 - Sputum Histamine Levels (micro-grams/gram Dry Weight Sputum)
 #' @param violence Table 4.4 - Seconds Spent in Room after Witnessing Violence
 #' @param leadpoisoning Table 4.7 - Plasma Glucose Levels
