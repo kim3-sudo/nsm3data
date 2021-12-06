@@ -32,5 +32,5 @@
 #'
 
 toc <- function() {
-  "Please use help(toc) instead of directly calling this function."
+  stop("toc() is not directly invokable. Use help(toc) instead.")
 }

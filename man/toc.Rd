@@ -37,13 +37,21 @@ help(toc)
 
 \item{albumin}{Table 3.18 - Intravascular Albumin Pool Before and After Prednisolone}
 
+\item{chorioamnion}{Table 4.1 - Tritiated Water Diffusion Across Human Chorioamnion}
+
+\item{alcohol}{Table 4.2: Alcohol Intake for 1 Year (Centiliter of Pure Alcohol)}
+
 \item{smokers}{Table 4.3 - Sputum Histamine Levels (micro-grams/gram Dry Weight Sputum)}
 
 \item{violence}{Table 4.4 - Seconds Spent in Room after Witnessing Violence}
 
 \item{leadpoisoning}{Table 4.7 - Plasma Glucose Levels}
 
+\item{serumiron}{Table 5.1: Serum Iron (micrograms per 100 milliliters) Determination Using Hyland Control Sera}
+
 \item{pokeweed}{Table 5.2 - Average Dry Feces Weight (mg)}
+
+\item{prednisone}{Table 5.4: Platelet Counts of Newbonr Infants (per Millimeter-cubed)}
 }
 \description{
 \code{help(toc)} displays the table of contents for datasets.
