@@ -13,7 +13,7 @@ jobs:
             - deps1-
       - run:
           command: |
-            R -e 'devtools::install_deps(dependencies = TRUE)'
+            R -e 'devtools::install_deps(dependencies = FALSE)'
       - save_cache:
           key: deps1-{{ .Branch }}-{{ checksum "DESCRIPTION" }}
           paths:
