@@ -14,6 +14,11 @@
 #' @param stainless Table 3.9 - Percentage of Chromium in the Stainless Steel Samples
 #' @param mayfly Table 3.10 - Mayfly Head Width, Habitat A (Micrometer Divisions)
 #' @param ddt Table 3.11 - 6-Beta-Hydroxycortisol Excretion (micrograms/24 hours)
+#' @param settlingvelocity Table 3.12 - Settling Velocities of Sand Samples at 22-degrees Celcius
+#' @param dewoxidant Table 3.13 - Oxidant Content of Dew Water, Port Burwell, 1960
+#' @param grouse Table 3.14 - Ruffed Grouse, Percentage Time in Active Movement
+#' @param bedmaking Table 3.15 - Net Oxygen Consumption (cc)
+#' @param albumin Table 3.18 - Intravascular Albumin Pool Before and After Prednisolone
 #' @param smokers Table 4.3 - Sputum Histamine Levels (micro-grams/gram Dry Weight Sputum)
 #' @param violence Table 4.4 - Seconds Spent in Room after Witnessing Violence
 #' @param leadpoisoning Table 4.7 - Plasma Glucose Levels

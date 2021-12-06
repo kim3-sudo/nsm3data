@@ -27,6 +27,16 @@ help(toc)
 
 \item{ddt}{Table 3.11 - 6-Beta-Hydroxycortisol Excretion (micrograms/24 hours)}
 
+\item{settlingvelocity}{Table 3.12 - Settling Velocities of Sand Samples at 22-degrees Celcius}
+
+\item{dewoxidant}{Table 3.13 - Oxidant Content of Dew Water, Port Burwell, 1960}
+
+\item{grouse}{Table 3.14 - Ruffed Grouse, Percentage Time in Active Movement}
+
+\item{bedmaking}{Table 3.15 - Net Oxygen Consumption (cc)}
+
+\item{albumin}{Table 3.18 - Intravascular Albumin Pool Before and After Prednisolone}
+
 \item{smokers}{Table 4.3 - Sputum Histamine Levels (micro-grams/gram Dry Weight Sputum)}
 
 \item{violence}{Table 4.4 - Seconds Spent in Room after Witnessing Violence}
