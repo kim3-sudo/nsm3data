@@ -1,7 +1,5 @@
 #' toc
 #'
-#' Table of Contents
-#'
 #' \code{help(toc)} displays the table of contents for datasets.
 #'
 #' A guide to the datasets in nsm3data. Datasets are listed under the Arguments section by the order they appear in the Nonparametric Statistical Methods textbook, 3ed. The reference name in the \code{nsm3data} package is given, along with the table number and the descriptor of the dataset.
