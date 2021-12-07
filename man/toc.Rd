@@ -2,7 +2,7 @@
 % Please edit documentation in R/toc.R
 \name{toc}
 \alias{toc}
-\title{Table of Contents}
+\title{toc}
 \usage{
 help(toc)
 }
