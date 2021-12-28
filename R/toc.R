@@ -54,6 +54,7 @@
 #' @param ratskin Table 7.13: Reactions of Male Rats to Chemical Substances
 #' @param isomers Table 7.14: Percent Conversion of Methyl Glucoside to Monovinyl Isomers
 #' @param shelterbeltsnov Table 7.16: Percent reduction in average wind speed at Dambutta, 1980/81 by shelterbelt trees, November included
+#' @param assembly Table 7.17: Assembly Times (min)
 #' @usage
 #' help(toc)
 #'
