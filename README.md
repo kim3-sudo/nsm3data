@@ -8,10 +8,14 @@ Designed to add datasets which are used in the textbook
 
 ## Installation
 
+Install the package from GitHub using the devtools library.
+
 ```R
 install.packages("devtools") # if it isn't already installed on your system
 devtools::install_github("kim3-sudo/nsm3data")
 ```
+
+After the package is installed, load the library into your current environment using the `library()` function.
 
 ```R
 library(nsm3data)
@@ -21,9 +25,10 @@ library(nsm3data)
 
 nsm3data contributes no additional functions, but it does have data and documentation. You need not specify the location of a dataset; simply use the `data()` function to read the data into your current environment after you have loaded the library.
 
-All datasets have accompanying descriptions that have varying degrees of helpfulness. To view this description, use the `help()` function in R to view the object's documentation. For example, use
+All datasets have accompanying descriptions that have varying degrees of helpfulness. The package itself also has a help description. To view this description, use the `help()` function in R to view the object's documentation. For example, use
 
 ```R
+help(nsm3data)
 help(pokeweed)
 ```
 
