@@ -108,6 +108,18 @@ help(toc)
 \item{shelterbeltsnov}{Table 7.16: Percent reduction in average wind speed at Dambutta, 1980/81 by shelterbelt trees, November included}
 
 \item{assembly}{Table 7.17: Assembly Times (min)}
+
+\item{niacin}{Table 7.20: Amount of Niacin in Enriched Bran Flakes}
+
+\item{ironsup}{Table 7.21: Percentage of Iron Retained}
+
+\item{welds}{Table 7.22: Strength of Weld}
+
+\item{coatacidity}{Table 7.23: Coat Acidity Value}
+
+\item{serum}{Table 7.24: Serum Level of LH (in Nanograms per Milliliter of Serum)}
+
+\item{tremors}{Table 7.26: Forearm Tremor Frequency (Hz) as a Function of Weight Applied at the Wrist}
 }
 \description{
 \code{help(toc)} displays the table of contents for datasets.

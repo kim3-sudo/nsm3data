@@ -55,6 +55,14 @@
 #' @param isomers Table 7.14: Percent Conversion of Methyl Glucoside to Monovinyl Isomers
 #' @param shelterbeltsnov Table 7.16: Percent reduction in average wind speed at Dambutta, 1980/81 by shelterbelt trees, November included
 #' @param assembly Table 7.17: Assembly Times (min)
+#' @param niacin Table 7.20: Amount of Niacin in Enriched Bran Flakes
+#' @param ironsup Table 7.21: Percentage of Iron Retained
+#' @param welds Table 7.22: Strength of Weld
+#' @param coatacidity Table 7.23: Coat Acidity Value
+#' @param serum Table 7.24: Serum Level of LH (in Nanograms per Milliliter of Serum)
+#' @param tremors Table 7.26: Forearm Tremor Frequency (Hz) as a Function of Weight Applied at the Wrist
+#' @param tuna Table 8.1: Hunter L Values and Consumer Panel Scores for Nine Lots of Canned Tuna
+#' @param tapeworms Table 8.3: Relation Between Weight of the Cysticerci of Taenia hydatigena Fed to Dogs and Weight of Worms Recovered at 20 Days
 #' @usage
 #' help(toc)
 #'
