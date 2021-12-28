@@ -87,7 +87,25 @@ help(toc)
 
 \item{syllables}{Table 7.4: Percentage Consonants Correctly Identified under Each of the Conditions: (A) Audition, (L) Lip Reading, (AL) Audition and Lip Reading, (C) Cued Speech, (AC) Audition and Cued Speech, (LC) Lip Reading and Cued Speech, and (ALC) Audition, Lip Reading, and Cued Speech}
 
+\item{cotton}{Table 7.5: Strength Index of Cotton}
+
 \item{stuttering}{Table 7.6: Influence of Rhythmicity of Metronome on Speech Fluency}
+
+\item{shelterbelts}{Table 7.7: Percent reduction in average wind speed at Dambutta, 1980/81 by shelterbelt trees}
+
+\item{soiltemp}{Table 7.8: Maximum Soil Temperature (degrees Centigrade) at 5-cm Depth at Dambatta, 1980/81}
+
+\item{hebbwilliams}{Table 7.9: Error Scores by Species}
+
+\item{adaptation}{Table 7.10: Adaptation Scores for College-Age Stutterers}
+
+\item{nasturtiums}{Table 7.12: Logarithm of Toxic Dosages}
+
+\item{ratskin}{Table 7.13: Reactions of Male Rats to Chemical Substances}
+
+\item{isomers}{Table 7.14: Percent Conversion of Methyl Glucoside to Monovinyl Isomers}
+
+\item{shelterbeltsnov}{Table 7.16: Percent reduction in average wind speed at Dambutta, 1980/81 by shelterbelt trees, November included}
 }
 \description{
 \code{help(toc)} displays the table of contents for datasets.

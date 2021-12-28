@@ -44,7 +44,16 @@
 #' @param ozone Table 7.2: Effect of Experimental Ozone Exposures on Airway Resistance (centimeters of a liter of water/second)
 #' @param psychotic Table 7.3: Effect of Isometric Exercise on Serum Creating Phosphokinase (CPK) Activity (mU/liter) in Psychotic Patients
 #' @param syllables Table 7.4: Percentage Consonants Correctly Identified under Each of the Conditions: (A) Audition, (L) Lip Reading, (AL) Audition and Lip Reading, (C) Cued Speech, (AC) Audition and Cued Speech, (LC) Lip Reading and Cued Speech, and (ALC) Audition, Lip Reading, and Cued Speech
+#' @param cotton Table 7.5: Strength Index of Cotton
 #' @param stuttering Table 7.6: Influence of Rhythmicity of Metronome on Speech Fluency
+#' @param shelterbelts Table 7.7: Percent reduction in average wind speed at Dambutta, 1980/81 by shelterbelt trees
+#' @param soiltemp Table 7.8: Maximum Soil Temperature (degrees Centigrade) at 5-cm Depth at Dambatta, 1980/81
+#' @param hebbwilliams Table 7.9: Error Scores by Species
+#' @param adaptation Table 7.10: Adaptation Scores for College-Age Stutterers
+#' @param nasturtiums Table 7.12: Logarithm of Toxic Dosages
+#' @param ratskin Table 7.13: Reactions of Male Rats to Chemical Substances
+#' @param isomers Table 7.14: Percent Conversion of Methyl Glucoside to Monovinyl Isomers
+#' @param shelterbeltsnov Table 7.16: Percent reduction in average wind speed at Dambutta, 1980/81 by shelterbelt trees, November included
 #' @usage
 #' help(toc)
 #'
