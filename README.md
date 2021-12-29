@@ -21,6 +21,14 @@ After the package is installed, load the library into your current environment u
 library(nsm3data)
 ```
 
+To install the package from a release, download the `tar.gz` file from the latest release. Then use 
+
+```
+R CMD INSTALL nsm3data_X.Y.ZZZZ.tar.gz
+```
+
+in a terminal window, replacing `X.Y.ZZZZ` with the actual version number of the release. Then, start R and type `library(nsm3data)` to see that it was installed, then try out some of its functions.
+
 ## Usage
 
 nsm3data contributes no additional functions, but it does have data and documentation. You need not specify the location of a dataset; simply use the `data()` function to read the data into your current environment after you have loaded the library.
