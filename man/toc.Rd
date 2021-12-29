@@ -120,6 +120,52 @@ help(toc)
 \item{serum}{Table 7.24: Serum Level of LH (in Nanograms per Milliliter of Serum)}
 
 \item{tremors}{Table 7.26: Forearm Tremor Frequency (Hz) as a Function of Weight Applied at the Wrist}
+
+\item{tuna}{Table 8.1: Hunter L Values and Consumer Panel Scores for Nine Lots of Canned Tuna}
+
+\item{tapeworms}{Table 8.3: Relation Between Weight of the Cysticerci of Taenia hydatigena Fed to Dogs and Weight of Worms Recovered at 20 Days}
+
+\item{brainweight}{Table 8.4: Mean Brain Weights and Medullary Pyramid Large Fiber Counts for Cerebral Palsy Subjects}
+
+\item{twins}{Table 8.5: Paired exam data of 13 different twin pairs}
+
+\item{highschool}{Table 8.6: Spending per High-School Senior and the Percentage of Those Seniors Who Graduated during the 1987-1988 School Year}
+
+\item{nursing}{Table 8.7: Rankings for Faculty/Dean Decision-Making Agreement and Faculty Satisfaction for Participating Schools of Nursing}
+
+\item{odors}{Table 8.8: Annual Number of Odor Periods for Lake Michigan for the Period 1950-1964}
+
+\item{prolineTable}{8.9: Free Proline and Total Collagen Contents of Cirrhotic Patients}
+
+\item{ciliarybeat}{Table 8.10: Relation between Ciliary Beat Frequency (CBF) Values Obtained through Nasal Brushing and Endobronchial Forceps Biopsy}
+
+\item{stockreturn}{Table 8.11: Mean Rate of Return of Common Stock Portfolios over the Period 1956-1969 and the 1969 Value of Each Equity Portfolio for 32 Life Insurance Companies}
+
+\item{glucoseimpedance}{Table 8.12: Weighted Glucose Response and Glucose Impedance}
+
+\item{snowy}{Table 9.1: Double Ratio for 5 Years in the Snowy Mountains of Australia}
+
+\item{cenosphereresin}{Table 9.2: The Effects of Hydrostatic Pressure on the Density of a Cenosphere-Resin Composite}
+
+\item{squirrelmonkey}{Table 9.3: Body Weight and Total Surface Area of Squirrel Monkeys}
+
+\item{flux}{Table 9.4: Coastal Sediment Ammonium Flux in Apalachicola Bay, Florida}
+
+\item{cloudseeding}{Table 9.5: Precipitation Amounts RI and Circulation Index M for Seeded and Control Units}
+
+\item{hemidiaphragms}{Table 9.6: Glycogen Content of Hemidiaphragms Measured by Optical Density in the Anthrone Test x 1000}
+
+\item{insecticide}{Table 9.7: Numbers of Drosophila Flies (Three Different Species) That Survive to Adulthood after Exposure to Various Levels (ppm) of an Organic Phosphorus Insecticide}
+
+\item{catheter}{Table 9.10: Required Length of Heart Catheter as a Function of Height and Weight}
+
+\item{triglyceride}{Table 9.11: Blood Plasma Measurements Related to Total Triglyceride Level}
+
+\item{liver}{Table 9.12: Survival Times of Liver Transplant Patients and Related Biological Measurements}
+
+\item{oxidant}{Table 9.13: Maximum Oxidant Level, Wind Speed, Temperature, Humidity, and Insolation for a 30-Day Summer Period in the Los Angeles Pollution Control District}
+
+\item{larvae}{Table 9.14: Number of Chaoborus Larvae and Water Quality of Samples}
 }
 \description{
 \code{help(toc)} displays the table of contents for datasets.

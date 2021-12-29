@@ -15,6 +15,6 @@
 twins
 }
 \description{
-Paired exam data of 13 different twin pairs
+Table 8.5: Paired exam data of 13 different twin pairs
 }
 \keyword{datasets}

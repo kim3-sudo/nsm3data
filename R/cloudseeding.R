@@ -1,0 +1,13 @@
+#' cloudseeding
+#'
+#' Table 9.5: Precipitation Amounts RI and Circulation Index M for Seeded and Control Units
+#'
+#' @format 3 arguments across 21 observations
+#' \describe{
+#' \item{unit}{Core sample, i}
+#' \item{seededm}{Seeded X1j (M)}
+#' \item{seededri}{Seeded Y1j (RI)}
+#' \item{controlm}{Control X2j (M)}
+#' \item{controlri}{Control Y2j (RI)}
+#' }
+"cloudseeding"

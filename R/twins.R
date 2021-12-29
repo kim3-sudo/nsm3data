@@ -1,6 +1,6 @@
 #' twins
 #'
-#' Paired exam data of 13 different twin pairs
+#' Table 8.5: Paired exam data of 13 different twin pairs
 #'
 #' @format 2 arguments across 13 observations
 #' \describe{

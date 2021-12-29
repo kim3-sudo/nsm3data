@@ -63,6 +63,27 @@
 #' @param tremors Table 7.26: Forearm Tremor Frequency (Hz) as a Function of Weight Applied at the Wrist
 #' @param tuna Table 8.1: Hunter L Values and Consumer Panel Scores for Nine Lots of Canned Tuna
 #' @param tapeworms Table 8.3: Relation Between Weight of the Cysticerci of Taenia hydatigena Fed to Dogs and Weight of Worms Recovered at 20 Days
+#' @param brainweight Table 8.4: Mean Brain Weights and Medullary Pyramid Large Fiber Counts for Cerebral Palsy Subjects
+#' @param twins Table 8.5: Paired exam data of 13 different twin pairs
+#' @param highschool Table 8.6: Spending per High-School Senior and the Percentage of Those Seniors Who Graduated during the 1987-1988 School Year
+#' @param nursing Table 8.7: Rankings for Faculty/Dean Decision-Making Agreement and Faculty Satisfaction for Participating Schools of Nursing
+#' @param odors Table 8.8: Annual Number of Odor Periods for Lake Michigan for the Period 1950-1964
+#' @param prolineTable 8.9: Free Proline and Total Collagen Contents of Cirrhotic Patients
+#' @param ciliarybeat Table 8.10: Relation between Ciliary Beat Frequency (CBF) Values Obtained through Nasal Brushing and Endobronchial Forceps Biopsy
+#' @param stockreturn Table 8.11: Mean Rate of Return of Common Stock Portfolios over the Period 1956-1969 and the 1969 Value of Each Equity Portfolio for 32 Life Insurance Companies
+#' @param glucoseimpedance Table 8.12: Weighted Glucose Response and Glucose Impedance
+#' @param snowy Table 9.1: Double Ratio for 5 Years in the Snowy Mountains of Australia
+#' @param cenosphereresin Table 9.2: The Effects of Hydrostatic Pressure on the Density of a Cenosphere-Resin Composite
+#' @param squirrelmonkey Table 9.3: Body Weight and Total Surface Area of Squirrel Monkeys
+#' @param flux Table 9.4: Coastal Sediment Ammonium Flux in Apalachicola Bay, Florida
+#' @param cloudseeding Table 9.5: Precipitation Amounts RI and Circulation Index M for Seeded and Control Units
+#' @param hemidiaphragms Table 9.6: Glycogen Content of Hemidiaphragms Measured by Optical Density in the Anthrone Test x 1000
+#' @param insecticide Table 9.7: Numbers of Drosophila Flies (Three Different Species) That Survive to Adulthood after Exposure to Various Levels (ppm) of an Organic Phosphorus Insecticide
+#' @param catheter Table 9.10: Required Length of Heart Catheter as a Function of Height and Weight
+#' @param triglyceride Table 9.11: Blood Plasma Measurements Related to Total Triglyceride Level
+#' @param liver Table 9.12: Survival Times of Liver Transplant Patients and Related Biological Measurements
+#' @param oxidant Table 9.13: Maximum Oxidant Level, Wind Speed, Temperature, Humidity, and Insolation for a 30-Day Summer Period in the Los Angeles Pollution Control District
+#' @param larvae Table 9.14: Number of Chaoborus Larvae and Water Quality of Samples
 #' @usage
 #' help(toc)
 #'
