@@ -8,6 +8,8 @@ Designed to add datasets which are used in the textbook
 
 ## Installation
 
+### devtools method
+
 Install the package from GitHub using the devtools library.
 
 ```R
@@ -21,13 +23,17 @@ After the package is installed, load the library into your current environment u
 library(nsm3data)
 ```
 
-To install the package from a release, download the `tar.gz` file from the latest release. Then use 
+### Naive method
+
+To install the package from a release instead of with the devtools library, download the `tar.gz` file from the latest GitHub release. Then use 
 
 ```
 R CMD INSTALL nsm3data_X.Y.ZZZZ.tar.gz
 ```
 
-in a terminal window, replacing `X.Y.ZZZZ` with the actual version number of the release. Then, start R and type `library(nsm3data)` to see that it was installed, then try out some of its functions.
+in a terminal window, replacing `X.Y.ZZZZ` with the actual version number of the release. After the package is installed, load the library into yur current environment using the `library()` function.
+
+Start R and type `library(nsm3data)` to see that it was installed, then try out some of its functions.
 
 ## Usage
 
