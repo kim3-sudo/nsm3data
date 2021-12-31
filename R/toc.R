@@ -84,6 +84,17 @@
 #' @param liver Table 9.12: Survival Times of Liver Transplant Patients and Related Biological Measurements
 #' @param oxidant Table 9.13: Maximum Oxidant Level, Wind Speed, Temperature, Humidity, and Insolation for a 30-Day Summer Period in the Los Angeles Pollution Control District
 #' @param larvae Table 9.14: Number of Chaoborus Larvae and Water Quality of Samples
+#' @param methyl Table 11.1: Calculation of Epsilon for the Methylmercury Data
+#' @param aircon Table 11.2: Intervals in Hours between Failures of the Air-Conditioning System of Plane 8044
+#' @param guinea Table 11.3: Ordered Survival Times in Days of Guinea Pigs under Regimen 4.3
+#' @param granulocytic Table 11.6: Ordered Survival Times (Days from Diagnosis)
+#' @param concrete Table 11.8: Pneumatic Pressures Required to Break Concrete Cubes
+#' @param tubercle Table 11.9: Ordered Survival Times in Days of Guinea Pigs under Regimen 5.5
+#' @param survival Table 11.11: Ordered Survival Times in Days of Guinea Pigs under Regimen 6.6
+#' @param hodgkins Table 11.16: Relapse-Free Survival Times for Hodgkin's Disease Patients
+#' @param hepatitis Table 11.22: Severe Viral Hepatitis Study
+#' @param apcalcf Table 12.1: Discrepancy Scores for 68 Female AP Calculus Students
+#' @param apcalcm Table 12.3: Discrepancy Scores for 82 Male AP Calculus Students
 #' @usage
 #' help(toc)
 #'

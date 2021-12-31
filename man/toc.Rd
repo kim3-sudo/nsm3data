@@ -166,6 +166,28 @@ help(toc)
 \item{oxidant}{Table 9.13: Maximum Oxidant Level, Wind Speed, Temperature, Humidity, and Insolation for a 30-Day Summer Period in the Los Angeles Pollution Control District}
 
 \item{larvae}{Table 9.14: Number of Chaoborus Larvae and Water Quality of Samples}
+
+\item{methyl}{Table 11.1: Calculation of Epsilon for the Methylmercury Data}
+
+\item{aircon}{Table 11.2: Intervals in Hours between Failures of the Air-Conditioning System of Plane 8044}
+
+\item{guinea}{Table 11.3: Ordered Survival Times in Days of Guinea Pigs under Regimen 4.3}
+
+\item{granulocytic}{Table 11.6: Ordered Survival Times (Days from Diagnosis)}
+
+\item{concrete}{Table 11.8: Pneumatic Pressures Required to Break Concrete Cubes}
+
+\item{tubercle}{Table 11.9: Ordered Survival Times in Days of Guinea Pigs under Regimen 5.5}
+
+\item{survival}{Table 11.11: Ordered Survival Times in Days of Guinea Pigs under Regimen 6.6}
+
+\item{hodgkins}{Table 11.16: Relapse-Free Survival Times for Hodgkin's Disease Patients}
+
+\item{hepatitis}{Table 11.22: Severe Viral Hepatitis Study}
+
+\item{apcalcf}{Table 12.1: Discrepancy Scores for 68 Female AP Calculus Students}
+
+\item{apcalcm}{Table 12.3: Discrepancy Scores for 82 Male AP Calculus Students}
 }
 \description{
 \code{help(toc)} displays the table of contents for datasets.
