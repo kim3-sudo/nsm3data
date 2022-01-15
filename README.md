@@ -4,7 +4,9 @@ CircleCI Build Status: [![CircleCI](https://circleci.com/gh/kim3-sudo/nsm3data/t
 
 Additional Datasets to Accompany Hollander, Wolfe, and Chicken - Nonparametric Statistical Methods, Third Edition
 
-Designed to add datasets which are used in the textbook
+Designed to add datasets which are used in the textbook.
+
+THIS IS NOT a substitute for the textbook. You will almost certainly not be able to use anything in this package without having the textbook. Rather, this package is supplemental and is only designed to save you time that you would otherwise spend typing data into R or into a spreadsheet.
 
 ## Installation
 

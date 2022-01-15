@@ -9,6 +9,8 @@ nsm3data: Designed to add datasets which are used in the textbook
 }
 \details{
 Additional Datasets to Accompany Hollander, Wolfe, and Chicken - Nonparametric Statistical Methods, Third Edition
+
+THIS IS NOT a substitute for the textbook. You will almost certainly not be able to use anything in this package without having the textbook. Rather, this package is supplemental and is only designed to save you time that you would otherwise spend typing data into R or into a spreadsheet.
 }
 \section{Usage}{
 

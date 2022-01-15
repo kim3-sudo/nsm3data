@@ -4,6 +4,8 @@
 #'
 #' Additional Datasets to Accompany Hollander, Wolfe, and Chicken - Nonparametric Statistical Methods, Third Edition
 #'
+#' THIS IS NOT a substitute for the textbook. You will almost certainly not be able to use anything in this package without having the textbook. Rather, this package is supplemental and is only designed to save you time that you would otherwise spend typing data into R or into a spreadsheet.
+#'
 #' @section Usage:
 #' nsm3data contributes no additional functions, but it does have data and documentation. You need not specify the location of a dataset; simply use the \code{data()} function to read the data into your current environment after you have loaded the library.
 #' All datasets have accompanying descriptions that have varying degrees of helpfulness. To view this description, use the \code{help()} function in R to view the object's documentation. For example, use
