@@ -4,7 +4,7 @@
 \alias{toc}
 \title{toc}
 \usage{
-help(toc)
+toc()
 }
 \description{
 \code{help(toc)} displays the table of contents for datasets.
@@ -106,4 +106,10 @@ A guide to the datasets in nsm3data. Datasets are listed under the Arguments sec
 \code{apcalcf} \tab {Table 12.1: Discrepancy Scores for 68 Female AP Calculus Students} \cr
 \code{apcalcm} \tab {Table 12.3: Discrepancy Scores for 82 Male AP Calculus Students} \cr
 }
+}
+\examples{
+\dontrun{
+help(toc)
+}
+
 }

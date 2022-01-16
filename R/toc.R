@@ -98,8 +98,10 @@
 #' \code{apcalcf} \tab {Table 12.1: Discrepancy Scores for 68 Female AP Calculus Students} \cr
 #' \code{apcalcm} \tab {Table 12.3: Discrepancy Scores for 82 Male AP Calculus Students} \cr
 #' }
-#' @usage
+#' @examples
+#' \dontrun{
 #' help(toc)
+#' }
 #'
 
 toc <- function() {
