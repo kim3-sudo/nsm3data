@@ -30,13 +30,13 @@ Resolve all compilation and interpretation issues before continuing! Remember, y
 
 ## Updating the Table of Contents
 
-If you wold like to update the table of contents, please use the following steps.
+If you would like to update the table of contents, please use the following steps.
 
 1. Open the `./R/toc.R` file to view the documentation.
 2. Under the arguments section at the top, add a new line in the respective location for the table number and provide the table name used nsm3data, the table number as referenced in NSM3, and the title of the table as shown.
 
-```
-@param violence Table 4.4 - Seconds Spent in Room after Witnessing Violence
+```R
+#' @code{tablereference} \tab {Table X.Y - Table Description} \cr
 ```
 
 Do not edit anything else in the file.
