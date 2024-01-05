@@ -8,6 +8,20 @@ THIS IS NOT a substitute for the textbook. You will almost certainly not be able
 
 ## Installation
 
+### Installing from CRAN
+
+This package is available in CRAN as a regular package. Assuming you have not modified your package repository list, you can install it using the package manager in software like RStudio or by using
+
+```R
+install.packages("nsm3data")
+```
+
+After the package is installed, load the library into your current environment using the `library()` function.
+
+```R
+library(nsm3data)
+```
+
 ### devtools method
 
 Install the package from GitHub using the devtools library.
