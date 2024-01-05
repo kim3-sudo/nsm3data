@@ -8,9 +8,9 @@ THIS IS NOT a substitute for the textbook. You will almost certainly not be able
 
 ## Installation
 
-### Installing from CRAN
+### Installing from CRAN (Preferred)
 
-This package is available in CRAN as a regular package. Assuming you have not modified your package repository list, you can install it using the package manager in software like RStudio or by using
+This is the preferred installation method. This package is available in CRAN as a regular package. Assuming you have not modified your package repository list, you can install it using the package manager in software like RStudio (search for package "nsm3data") or by using
 
 ```R
 install.packages("nsm3data")
